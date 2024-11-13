@@ -6,6 +6,14 @@ __pycache__/
 # C extensions
 *.so
 
+<<<<<<< HEAD
+=======
+#Local Backups
+archive/
+build/
+dist/
+
+>>>>>>> d20dbb1 (update gitignore)
 # Distribution / packaging
 .Python
 build/
