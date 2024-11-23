@@ -9,3 +9,6 @@
 - pynput
 - keyboard
 - pywin32
+
+pip install fastapi uvicorn websockets
+pip install PyQt5Designer
